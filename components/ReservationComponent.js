@@ -100,7 +100,7 @@ class Reservation extends Component {
                                     'Number of Campers: 2'
                                     + '\n'
                                     + '\n'
-                                    +'Hike-In?true' 
+                                    +'Hike-In? True' 
                                     + '\n'
                                     + '\n'
                                     + 'Date: 09/20/20',
